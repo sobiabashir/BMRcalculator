@@ -1,0 +1,16 @@
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\BMICalculatorApp.exe.config
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\BMICalculatorApp.exe
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\BMICalculatorApp.pdb
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.csproj.AssemblyReference.cache
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.Properties.Resources.resources
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.csproj.GenerateResource.cache
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.exe
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.pdb
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.MainForm.resources
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\sobia\source\repos\BMICalculatorApp\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\sobia\source\repos\BMICalculatorApp\obj\Debug\BMICalculatorApp.csproj.CopyComplete
